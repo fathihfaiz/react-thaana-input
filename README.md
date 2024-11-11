@@ -89,6 +89,10 @@ export default EditableDivExample;
 - Compatible with React 16.8+, 17.x, and 18.x.
 - Works with input, textarea, and contentEditable elements.
 
+## Contributing
+
+Feel free to fork and submit pull requests. Contributions are welcome!
+
 ## License
 
 MIT
