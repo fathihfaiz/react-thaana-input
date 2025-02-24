@@ -1,5 +1,5 @@
 
-# react-thaana-input
+# React Thaana Input
 
 A React hook for handling Thaana (Divehi) input seamlessly.
 
